@@ -1,0 +1,26 @@
+.wrapper{ 
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+#section, #section1{ 
+    display: none; 
+    padding-left: 40px;
+}
+
+ul {
+    margin: 0;
+    cursor: pointer;
+}
+
+#tree {
+    cursor: pointer;
+}
+
+#plus, #minus {
+    cursor: pointer;
+}
+
+.add {
+    cursor: pointer;
+}
